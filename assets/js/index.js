@@ -3,6 +3,15 @@ let currentUser = null;
 document.addEventListener('DOMContentLoaded', () => {
     loadBooks();
     checkCurrentUser();
+    document.addEventListener('DOMContentLoaded', () => {
+        const header = document.querySelector('header');
+    
+        // Set a timeout to start the animation after a short delay
+        setTimeout(() => {
+            header.classList.add('animate');
+        }, 10000); // 2 seconds delay before starting the animation
+    });
+    
 
     // Get the feedback form elements
     const feedbackFormContainer = document.getElementById("feedback-form-container");

@@ -1,4 +1,32 @@
-/* General Body Styling */
+/* Define the keyframes for the animation */
+@keyframes moveLeftToRight {
+    0% {
+        transform: translateX(-50%); /* Start off-screen to the left */
+    }
+    100% {
+        transform: translateX(150%); /* Move to off-screen to the right */
+    }
+}
+
+
+
+#header {
+    width: 100%;
+    background-color: #555;
+    color: #fff;
+    padding: 1rem;
+    font-weight: 300;
+    position: relative;
+    animation: moveHeader 10s linear infinite;
+    animation: moveLeftToRight 10s linear infinite;
+    white-space: nowrap;
+}
+
+#header.animate {
+    animation: moveLeftToRight 10s linear infinite;
+}
+    
+
 body {
     font-family: 'Arial', sans-serif;
     background-color: #f0f2f5;
@@ -7,11 +35,10 @@ body {
     padding: 0;
 }
 
-/* Navbar Styling */
 .navbar {
     background-color: #0044cc;
     padding: 10px 20px;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 6px #0a06f5e8;
 }
 
 .navbar-brand {
@@ -30,7 +57,7 @@ body {
     color: #e3f2fd;
 }
 
-/* Card Styling */
+
 .card {
     border-radius: 12px;
     border: none;
@@ -259,5 +286,30 @@ body {
 
 /* Style for the add book button */
 #add-book-button {
-    display: block;
+    display: flex;
+    background-color: #555;
+    color: whitesmoke;
 }
+
+#home-button {
+    display: flex;
+    background-color: #555;
+    color: whitesmoke;
+}
+#login-button{
+    display: flex;
+    background-color: #555;
+    color: whitesmoke;
+}
+#register-button{
+    display: flex;
+    background-color: #555;
+    color: whitesmoke
+}
+.button-container {
+    display: flex;
+    flex-direction: row; 
+    gap: 10px;
+    padding: 10px;
+}
+
