@@ -1,0 +1,275 @@
+{
+  "users": [
+    {
+      "username": "moe_k",
+      "name": "maureen",
+      "email": "kiburu05@gmail.com",
+      "bio": "Avid reader and book lover"
+    },
+    {
+      "id": "c4bf",
+      "username": "thihvjklds",
+      "password": "589089m vbvkj=",
+      "email": "wangarimaureen668@gmail.com",
+      "name": "maureen",
+      "bio": "fzsghjknml,./",
+      "purchasedBooks": [
+        "1"
+      ]
+    },
+    {
+      "id": "909d",
+      "username": "thihvjklds",
+      "password": "589089m vbvkj=",
+      "email": "wangarimaureen668@gmail.com",
+      "purchasedBooks": []
+    },
+    {
+      "id": "ce1e",
+      "username": "thihvjklds",
+      "password": "589089m vbvkj=",
+      "email": "wangarimaureen668@gmail.com",
+      "purchasedBooks": []
+    },
+    {
+      "id": "6083",
+      "username": "thihvjklds",
+      "password": "589089m vbvkj=",
+      "email": "wangarimaureen668@gmail.com",
+      "purchasedBooks": []
+    },
+    {
+      "id": "a91a",
+      "username": "thihvjklds",
+      "password": "589089m vbvkj=",
+      "email": "wangarimaureen668@gmail.com",
+      "purchasedBooks": []
+    },
+    {
+      "id": "cb2e",
+      "username": " moe_k",
+      "password": "mbvcg",
+      "name": "maureen",
+      "email": "kiburu05@gmail.com"
+    },
+    {
+      "id": "fdfd",
+      "username": "thihvjklds",
+      "password": "589089m vbvkj=",
+      "name": "bjvty",
+      "email": "wangarimaureen668@gmail.com"
+    },
+    {
+      "id": "aa27",
+      "username": "thihvjklds",
+      "password": "589089m vbvkj=",
+      "name": "bjbiu89",
+      "email": "wangarimaureen668@gmail.com"
+    },
+    {
+      "id": "67e0",
+      "username": "thihvjklds",
+      "password": "589089m vbvkj=",
+      "name": "bjvty",
+      "email": "wangarimaureen668@gmail.com"
+    },
+    {
+      "id": "3e87",
+      "username": "thihvjklds",
+      "password": "589089m vbvkj=",
+      "name": "bjvty",
+      "email": "wangarimaureen668@gmail.com",
+      "purchasedBooks": []
+    },
+    {
+      "id": "a649",
+      "username": "moe_k",
+      "password": "589089m vbvkj=",
+      "name": "maureen",
+      "email": "wangarimaureen668@gmail.com",
+      "bio": "asdfghjkl"
+    },
+    {
+      "id": "2c02",
+      "username": "thihvjklds",
+      "password": "589089m vbvkj=",
+      "name": "maureen",
+      "email": "wangarimaureen668@gmail.com"
+    },
+    {
+      "id": "a274",
+      "username": "peter",
+      "password": "peter23",
+      "name": "peter",
+      "email": "peter05@gmail.com"
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "username": "customer1",
+      "password": "password1",
+      "name": "Customer One",
+      "email": "customer1@example.com"
+    },
+    {
+      "id": "2868",
+      "username": "thihvjklds",
+      "password": "589089m vbvkj=",
+      "name": "dsfdgh",
+      "email": "kiburu05@gmail.com"
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "username": "author1",
+      "password": "password1",
+      "name": "Author One",
+      "email": "author1@example.com"
+    },
+    {
+      "id": "7fe2",
+      "username": "thihvjklds",
+      "password": "589089m vbvkj=",
+      "name": "deraestgr",
+      "email": "wangarimaureen668@gmail.com"
+    },
+    {
+      "id": "be17",
+      "username": "thihvjklds",
+      "password": "589089m vbvkj=",
+      "name": "maureen",
+      "email": "wangarimaureen668@gmail.com"
+    },
+    {
+      "id": "a274",
+      "username": "peter",
+      "password": "peter23",
+      "name": "peter",
+      "email": "peter05@gmail.com"
+    }
+  ],
+  "books": [
+    {
+      "id": "1",
+      "coverpage": "assets/coverpages/PDF-EPUB-All-Ive-Never-Wanted-by-Ana-Huang-Download.jpg",
+      "bookTitle": "All I've Ever Wanted",
+      "Author": "Anna Huang",
+      "summary": "A captivating story about love and desire.",
+      "price": 100,
+      "downloadLink": "assets/books/bookspdf/_OceanofPDF.com_All_Ive_Never_Wanted_-_Ana_Huang.pdf"
+    },
+    {
+      "id": "2",
+      "coverpage": "assets/coverpages/PDF-EPUB-King-of-Wrath-Kings-of-Sin-1-by-Ana-Huang-Download-200x300.jpg",
+      "bookTitle": "King Of Wrath",
+      "Author": "Anna Huang",
+      "summary": "An intense story of power and romance.",
+      "price": 98,
+      "downloadLink": "assets/books/bookspdf/_OceanofPDF.com_King_of_Wrath_-_Ana_Huang.pdf"
+    },
+    {
+      "id": "3",
+      "coverpage": "assets/coverpages/PDF-EPUB-Twisted-Love-Twisted-1-by-Ana-Huang-Download.jpg",
+      "bookTitle": "Twisted Love",
+      "Author": "Anna Huang",
+      "summary": "A thrilling tale of love and secrets.",
+      "price": 200,
+      "downloadLink": "assets/books/bookspdf/_OceanofPDF.com_Twisted_Love_-_Ana_Huang.pdf"
+    },
+    {
+      "id": "4",
+      "coverpage": "assets/coverpages/PDF-EPUB-The-Money-Club-by-Fiona-Lowe-Download-scaled.jpg",
+      "bookTitle": "The Money Club",
+      "Author": "Fiona Lowe",
+      "summary": "A gripping story of friendship and betrayal.",
+      "price": 56,
+      "downloadLink": "assets/books/bookspdf/_OceanofPDF.com_The_Money_Club_-_Fiona_Lowe.pdf"
+    },
+    {
+      "id": "5",
+      "coverpage": "assets/coverpages/PDF-EPUB-The-Regulators-Download.jpg",
+      "bookTitle": "The Regulators",
+      "Author": "Richard",
+      "summary": "A suspenseful narrative about power and control.",
+      "price": 78,
+      "downloadLink": "assets/books/bookspdf/_OceanofPDF.com_The_Regulators_-_Stephen_King.pdf"
+    },
+    {
+      "id": "1721378156611",
+      "coverpage": "https://media.oceanofpdf.com/2020/04/PDF-EPUB-Python-Programming-Deep-Learning-3-Books-by-Anthony-Adams-Download.jpg",
+      "bookTitle": "fdzndjh",
+      "Author": "Martin Reeves",
+      "summary": "sdagnmshu",
+      "price": 100,
+      "downloadLink": "https://oceanofpdf.com/authors/ryan-jacobs/pdf-epub-the-truffle-underground-a-tale-of-mystery-mayhem-and-manipulation-in-the-shadowy-market-of-the-worlds-most-expensive-fungus-download/"
+    },
+    {
+      "id": "a8c4",
+      "bookTitle": "afGASFJDH",
+      "Author": "DSBDNSMJ",
+      "summary": ",.VCXMKSDNHflag'le\ntlrekjy",
+      "price": 34,
+      "coverpage": "https://media.oceanofpdf.com/2023/10/PDF-EPUB-The-Truffle-Underground-A-Tale-of-Mystery-Mayhem-and-Manipulation-in-the-Shadowy-Market-of-the-Wo-by-Ryan-Jacobs-Download.jpg",
+      "downloadLink": "https://oceanofpdf.com/authors/ryan-jacobs/pdf-epub-the-truffle-underground-a-tale-of-mystery-mayhem-and-manipulation-in-the-shadowy-market-of-the-worlds-most-expensive-fungus-download"
+    },
+    {
+      "id": "ace5",
+      "bookTitle": "zxcvb",
+      "Author": "sdefgtrhtj",
+      "summary": "ASDFGTRHUK6E756UY5T4",
+      "price": "45",
+      "coverpage": "https://media.oceanofpdf.com/2022/10/PDF-EPUB-The-Ohio-Border-Trilogy-Others-by-Zane-Grey-Download.jpg",
+      "downloadLink": "https://oceanofpdf.com/authors/zane-grey/pdf-epub-the-ohio-border-trilogy-and-others-download"
+    }
+  ],
+  "purchases": [
+    {}
+  ],
+  "messages": [
+    {},
+    {
+      "id": "baa4",
+      "senderId": "c4bf",
+      "content": "mvfen/jwhobt4i\n6hy",
+      "timestamp": "2024-07-22T06:36:44.863Z"
+    },
+    {
+      "id": "ac07",
+      "senderId": "c4bf",
+      "content": "mvfen/jwhobt4i\n6hy",
+      "timestamp": "2024-07-22T06:36:52.272Z"
+    },
+    {
+      "id": "b67c",
+      "senderId": "3e87",
+      "content": "nbvcxvcbnm,",
+      "timestamp": "2024-07-22T07:17:19.100Z"
+    },
+    {
+      "id": "cd0d",
+      "senderId": "2868",
+      "content": "wertyuhgfdcs"
+    },
+    {
+      "id": "b589",
+      "senderId": "a274",
+      "content": "SASDVSETRHE"
+    },
+    {
+      "id": "6c7e",
+      "senderId": "a274",
+      "recipientId": "a274",
+      "content": "naghhfhkerjlh"
+    }
+  ],
+  "feedbacks": [
+    {
+      "id": "e280",
+      "bookTitle": "King Of Wrath",
+      "username": "peter",
+      "feedback": " best"
+    }
+  ]
+}
