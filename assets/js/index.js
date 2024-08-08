@@ -6,10 +6,10 @@ document.addEventListener('DOMContentLoaded', () => {
     document.addEventListener('DOMContentLoaded', () => {
         const header = document.querySelector('header');
     
-        // Set a timeout to start the animation after a short delay
+        
         setTimeout(() => {
             header.classList.add('animate');
-        }, 10000); // 2 seconds delay before starting the animation
+        }, 10000); 
     });
     
 

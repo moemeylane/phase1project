@@ -1,10 +1,10 @@
-/* Define the keyframes for the animation */
+
 @keyframes moveLeftToRight {
     0% {
-        transform: translateX(-50%); /* Start off-screen to the left */
+        transform: translateX(-50%); 
     }
     100% {
-        transform: translateX(150%); /* Move to off-screen to the right */
+        transform: translateX(150%); 
     }
 }
 
